@@ -1,0 +1,17 @@
+
+# Light automation
+13     1 * * * ~/src/phue-random/jenny_light_off.py
+
+#21 15,20 *  1 * ~/src/phue-random/random_house_lights.py
+24 16,20 *  2 * ~/src/phue-random/random_house_lights.py
+22 17,20 *  3 * ~/src/phue-random/random_house_lights.py
+15 19,21 *  4 * ~/src/phue-random/random_house_lights.py
+17 20,21 *  5 * ~/src/phue-random/random_house_lights.py
+19 21,22 *  6 * ~/src/phue-random/random_house_lights.py
+17 20,22 *  7 * ~/src/phue-random/random_house_lights.py
+16 19,20 *  8 * ~/src/phue-random/random_house_lights.py
+17 18,20 *  9 * ~/src/phue-random/random_house_lights.py
+21 16,20 * 10 * ~/src/phue-random/random_house_lights.py
+23 15,20 * 11 * ~/src/phue-random/random_house_lights.py
+#25 15,20 * 12 * ~/src/phue-random/random_house_lights.py
+
